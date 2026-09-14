@@ -13,4 +13,4 @@
 - побудову розподілів ознак;
 - формулювання задачі багатокласової класифікації.
 
-https://colab.research.google.com/drive/1shGb15YNeHnDaoyw8csXBsIMpRbbsUuf?usp=sharing
+[Відкрити Notebook](notebooks/PR01_Zboryk_Anton.ipynb)
